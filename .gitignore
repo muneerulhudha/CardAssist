@@ -1,0 +1,12 @@
+.DS_Store
+DerivedData/
+build/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+.env
+.env.*
+*.xcconfig
+Secrets.*
+Local.*
+launch-video/
